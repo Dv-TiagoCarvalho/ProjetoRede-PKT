@@ -43,6 +43,6 @@
   <li>🔌 Topologia Lógica + Tabela de Endereçamento</li>
   <li>📁 Arquivo do Cisco Packet Tracer</li>
   <li>💰 Orçamento
-    ****
+   <hr>
   <img width="1195" height="653" alt="Captura de tela 2025-11-13 200232" src="https://github.com/user-attachments/assets/7014716e-69de-4a87-a6dc-f1ed6a5398f1" />
 
