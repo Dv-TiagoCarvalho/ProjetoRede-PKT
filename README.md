@@ -1,52 +1,45 @@
 # ProjetoRede-PKT
-Projeto de Infraestrutura de Redes – NoLimits
+<h1>🌐 Projeto de Infraestrutura de Redes – NoLimits</h1>
+<p><strong>Arquivo:</strong> ProjetoRede-PKT</p>
 
-Projeto desenvolvido para a disciplina Ambientes Computacionais e Conectividade, com o objetivo de criar a infraestrutura de rede física e lógica para a empresa fictícia NoLimits, composta por duas unidades separadas por 500 metros.
+<p>Projeto desenvolvido para a disciplina <strong>Ambientes Computacionais e Conectividade</strong>, com foco na criação da infraestrutura de rede física e lógica da empresa fictícia <strong>NoLimits</strong>, composta por duas unidades separadas por <strong>500 metros</strong>.</p>
 
-📌 Descrição Resumida
+<hr>
 
-Unidade de Produção: 120 computadores
+<h2>🔎 Visão Geral do Projeto</h2>
 
-Unidade de Logística: 75 computadores
+<table>
+  <tr>
+    <th>Unidade</th>
+    <th>Quantidade de Computadores</th>
+  </tr>
+  <tr>
+    <td><strong>Produção</strong></td>
+    <td>120</td>
+  </tr>
+  <tr>
+    <td><strong>Logística</strong></td>
+    <td>75</td>
+  </tr>
+</table>
 
-Rede segmentada com endereços Classe C
+<br>
 
-Projeto físico, lógico e simulação no Cisco Packet Tracer
+<h3>📌 Principais Características</h3>
+<ul>
+  <li>Rede segmentada</li>
+  <li>Endereços <strong>IPv4 Classe C</strong></li>
+  <li>Projeto físico e lógico completo</li>
+  <li>Simulações realizadas no <strong>Cisco Packet Tracer</strong></li>
+  <li>Implementação de protocolo de roteamento</li>
+  <li>Orçamento dos equipamentos de rede</li>
+</ul>
 
-Implementação de protocolo de roteamento
+<hr>
 
-Orçamento e escolha de equipamentos de rede
-
-📡 Entregáveis
-
-Topologia física
-
-Topologia lógica + tabela de endereçamento
-
-Arquivo do Packet Tracer
-
-Orçamento dos equipamentos
-
-Documentação PDF
-
-Slides de apresentação
-
-🛠️ Tecnologias e Ferramentas
-
-Cisco Packet Tracer
-
-IPv4 Classe C
-
-Segmentação de rede
-
-Roteamento (RIP / OSPF / EIGRP — conforme versão final)
-
-📂 Arquivos do Repositório
-
-Topologia_NoLimits.pkt
-
-Documentacao.pdf
-
-Apresentacao.pdf
-
-README.md
+<h2>🚀 Entregáveis do Projeto</h2>
+<ul>
+  <li>🗺️ Topologia Física da Rede</li>
+  <li>🔌 Topologia Lógica + Tabela de Endereçamento</li>
+  <li>📁 Arquivo do Cisco Packet Tracer</li>
+  <li>💰 Orçamento
